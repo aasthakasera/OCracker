@@ -1,3 +1,3 @@
 # OCracker
 
-Food web app based on django.
+Food web app based.
